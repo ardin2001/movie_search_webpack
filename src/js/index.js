@@ -1,0 +1,9 @@
+import '../scss/style.scss'
+import 'regenerator-runtime';
+import '../css/style.css'
+import './component/header/header.js'
+import './component/search/index.js';
+import './component/film-list/film-list.js';
+import './component/film-item/film-item.js';
+import './component/footer/footer.js';
+import './component/main.js'
